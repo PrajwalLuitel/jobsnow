@@ -8,6 +8,9 @@
       "expo-router"
     ],
     "name": "jobsnow",
-    "slug": "jobsnow"
+    "slug": "jobsnow",
+    "updates":{
+      "useClassicUpdates": true
+    }
   }
 }
